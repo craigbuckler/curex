@@ -1,0 +1,25 @@
+{
+  "name": "CurEx",
+  "short_name": "CurEx",
+  "icons": [
+		{
+      "src": "/images/curex-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+		{
+      "src": "/images/curex-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+		{
+      "src": "/images/curex-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+	],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#003300",
+  "theme_color": "#003300"
+}
