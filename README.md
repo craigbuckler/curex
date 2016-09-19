@@ -1,11 +1,8 @@
-# Sample Progressive Web Apps: CurEx Currency Cxchange
+# Sample Progressive Web Apps: CurEx Currency Exchange
 
 By Craig Buckler
 
-Run directly from:
-https://cdn.rawgit.com/craigbuckler/curex/master/index.html
+Server can be started with:
 
-Server version can be started with:
-
-  cd curex
-  node ./server.js
+    cd curex
+    node ./server.js
