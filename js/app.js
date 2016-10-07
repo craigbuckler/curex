@@ -142,7 +142,7 @@
 
 		// active value
 		var t = e && e.target;
-		if (t == dom.set2.number || t == dom.set2.currency) {
+		if (t == dom.set2.number || t == dom.set1.currency) {
 			inp = dom.set2;
 			out = dom.set1;
 			localStorage.setItem('input', 'set2');
